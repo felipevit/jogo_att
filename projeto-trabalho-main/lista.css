@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin: 20px auto;
+    text-align: center;
+}
+
+label {
+    margin-right: 10px;
+}
+
+select, input {
+    margin-right: 10px;
+    padding: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    text-decoration: none;
+}
+
+.container {
+    width: 40%;
+    margin: 20px auto;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.result-item {
+    text-align: center;
+}
+
+.item-container {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(60% - 20px); 
+    padding: 10px;
+    border: 1px solid #fff;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.result-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.cabecalhos th, .result-row td {
+    padding: 10px;
+    border: 1px solid #fff;
+    background-color: #555;
+    color: #fff;
+}
+
+.cabecalhos th {
+    text-align: center;
+}
+
+.result-row td {
+    text-align: center;
+}
+
+.Uinfo {
+    text-align: center;
+    border: 1px solid #fff;
+    margin: 20px auto;
+    border-radius: 8px;
+    background-color: #555;
+}
+
+.VoltaMenu {
+    color:black;
+    text-decoration: none;
+    padding: 10px 5px;
+}

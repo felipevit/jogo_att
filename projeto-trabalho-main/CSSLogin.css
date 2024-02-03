@@ -1,0 +1,87 @@
+/* Tags */
+body {
+	padding: 300px 530px;
+	margin: 0px;
+	background-color: #101010;
+}
+form {
+	display: table;
+}
+
+p {
+	display: table-row;
+}
+
+input {
+padding: 3px;
+position: relative;
+}
+h1 {
+	color: black;
+}
+
+label {
+    font-family: Arial, sans-serif;
+	text-align: center;
+	padding: 10px 0px;
+	color: black;
+	display: table-cell;
+}
+
+p {
+	color: black;
+}
+
+input {
+	color:black;
+	display:table-cell;
+}
+
+button {
+	background-color: white;
+	border: 1px solid black;
+    font-family: Arial, sans-serif;
+	padding: 10px 20px;
+}
+
+/* Id */
+#Erro {
+	font-family: Arial, sans-serif;
+	color: white;
+	font-size: 25px;
+}
+#Entrar {
+    font-family: Arial, sans-serif;
+	padding-top: 20px;
+	text-align:center;
+}
+
+#NaoEsta {
+    font-family: Arial, sans-serif;
+	padding: 20px 10px 15px 10px;
+	text-align: center;
+}
+
+#Entrada {
+	padding-top: 10px;
+}
+
+#Email {
+	padding-right: 20px;
+}
+
+#Senha {
+	padding-right: 20px;
+}
+
+/* .Classes */
+.Login {
+	border: 1px black;
+	display: block;
+	background-color: #f8f4dc;
+}
+
+.Campos {
+	padding: 0px 20px;
+}
+

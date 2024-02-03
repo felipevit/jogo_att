@@ -1,0 +1,71 @@
+/* Tags */
+
+body {
+	padding: 300px 530px;
+	margin: 0px;
+	background-color: #101010;
+}
+
+form {
+	display: table;
+}
+
+p {
+	display: table-row;
+}
+
+input {
+padding: 3px;
+position: relative;
+}
+h1 {
+	color: black;
+}
+
+label {
+    font-family: Arial, sans-serif;
+	text-align: right;
+	padding: 10px 0px;
+	color: black;
+	display: table-cell;
+}
+
+p {
+	color: black;
+}
+
+input {
+	color:black;
+	display:table-cell;
+}
+
+button {
+	background-color: white;
+	border: 1px solid black;
+    font-family: Arial, sans-serif;
+	padding: 10px 20px;
+}
+
+/* Id */
+
+
+#Cadastro {
+    font-family: Arial, sans-serif;
+	padding: 10px;
+	text-align:center;
+}
+
+#BotaoConfirmar {
+	padding: 20px;
+}
+
+/* Classes */
+.Cadastro {
+	background-color: #f8f4dc;
+}
+
+#erro {
+	font-family: Arial, sans-serif;
+	color: white;
+	font-size: 25px;
+}

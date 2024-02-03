@@ -1,0 +1,73 @@
+body {
+    background-image: url("https://t4.ftcdn.net/jpg/02/62/24/45/360_F_262244537_RjHfRBucxPyo7o6QetIAQYpd5O3h6cEN.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    height: 100vh; 
+    
+}
+
+
+.container{
+    border-style: solid;
+    border-width: 3px;
+    position: relative;
+    width: 600px;
+    height: 600px;
+    margin-left: 50%;
+    margin-top: 200px;
+    background-color: beige;
+}
+
+.espacoErradas{
+    font-size: 30px;
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;   
+    margin-bottom: 10%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30%;
+}
+
+.palavraCerta{
+    font-size: 50px;
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;   
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30%;
+}
+
+.fim {
+    
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    
+    border: solid;
+    border-width: 2px;
+}
+
+.mensagem{
+    margin-bottom: 80%;
+    font-size: 40px;
+    margin-left: 35%;
+}
+
+.fim button {
+    margin-top: 80%;
+    background-color: aqua;
+}

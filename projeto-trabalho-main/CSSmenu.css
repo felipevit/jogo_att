@@ -1,0 +1,82 @@
+/* Tags */
+body {
+    margin: 0px;
+    background-color: #101010;
+}
+
+li {
+    float:left;
+}
+li a {
+    display: block;
+    text-decoration:none;
+}
+
+/* Id */
+
+#listabotoes {
+    margin: 20px 525px;
+    border: 1px white solid;
+    
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+#BemV {
+    display:block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+
+    font-size: 60px;
+    font-family: 'Brush Script MT', cursive;
+    width: 50%;
+    color: white;
+    text-align: center;
+}
+
+#BotSair {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 25px;
+    color: white;
+}
+
+#LiSair {
+    float:right;
+}
+
+#BotLeader {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 25px;
+    color: white;
+}
+
+/* Classes */
+.botoes button {
+    width: 100%;
+    display: block;
+    padding: 20px;
+    font-size: 50px;
+    font-family:'Brush Script MT', cursive;
+    background-color: #f8f4dc;
+    border-bottom: none;
+    cursor: pointer;
+    
+    }
+
+.botoes button:hover {
+    background-color: white;
+}
+
+
+.Barra {
+    border: 1px black solid;
+    margin: 0px;
+    padding: 5px 25px;
+    background-color: #333333;
+    list-style-type: none;
+}
